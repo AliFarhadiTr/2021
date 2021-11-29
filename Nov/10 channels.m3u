@@ -10,9 +10,9 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="North America(5)",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="North America(5)",A&E
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64014.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="North America(5)",A&E
 http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/6471?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="North America(5)",A&E
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64014.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ogw/ADGmqu-mfXA-oq04H82TcIWTi4HIuoDHyAjC1LvyGSJJ" group-title="South America(5)",Long term Sport IPTV & ZalTV
     http://www.mene77.ir/zt/ads-11626.mp4
 #EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="South America(5)",24/7 Canal de Noticias
